@@ -1,4 +1,4 @@
-[![Header](https://github.com/rizkynat/rizkynat.github.io/blob/master/header.png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/rizkynat/rizkynat.github.io/blob/master/Screenshot from 2021-09-13 20-01-18 "Header")](https://martinheinz.dev/)
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Rizky nathamael simbolon and i'm a Software Engineer also interest with Machine Learning.
 ## 🔧 Technologies & Tools
