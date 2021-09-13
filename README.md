@@ -17,8 +17,8 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkynat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rizky's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rizkynat/coplink">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkynat&repo=coplink&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -44,7 +44,7 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
 
 [1]: https://www.instagram.com/rykinat4
 [2]: https://github.com/rizkynat
-[3]: https://www.linkedin.com/in/heinz-martin/
+
 
 
 <!-- Resources -->
