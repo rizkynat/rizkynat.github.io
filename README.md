@@ -5,3 +5,5 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d6249f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=d6249f)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d6249f)
+![](https://img.shields.io/badge/Code-Java-d6249f?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vscode-d6249f?style=flat&logo=visualstudiocode&logoColor=white&color=d6249f)
