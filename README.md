@@ -22,8 +22,8 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rizkynat/Kas_Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkynat&repo=Kas_Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
@@ -42,8 +42,8 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
+[1]: https://www.instagram.com/rykinat4
+[2]: https://github.com/rizkynat
 [3]: https://www.linkedin.com/in/heinz-martin/
 
 
