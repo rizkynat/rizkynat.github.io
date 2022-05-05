@@ -1,6 +1,6 @@
 [![Header](https://github.com/rizkynat/rizkynat.github.io/blob/master/Screenshot%20from%202021-09-13%2020-01-18.png "Header")](https://martinheinz.dev/)
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rizky nathamael simbolon and i'm a Software Engineer also interest with Machine Learning.
+My name is Rizky nathamael simbolon and i'm a Software Engineer also interest with Machine Learning. Computer is fun🖥️.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d6249f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=d6249f)
@@ -54,3 +54,6 @@ My name is Rizky nathamael simbolon and i'm a Software Engineer also interest wi
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+## 📕 Notes
+<!-- BLOG-POST-LIST:START -->
+- [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
